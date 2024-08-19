@@ -1,0 +1,108 @@
+    1  mkdir
+    2  clear
+    3  clear
+    4  ls
+    5  clear
+    6  cd ..
+    7  cd..
+    8  cd /
+    9  clear
+   10  ls
+   11  mkdir tareas
+   12  ls
+   13  rm -r tareas
+   14  clear
+   15  mkdir principal
+   16  cd principal/
+   17  cd /
+   18  clear
+   19  cd principal/
+   20  clear
+   21  mkdir Menu
+   22  cd Menu/
+   23  clear
+   24  mkdir Bebidas
+   25  mkdir Platillos
+   26  mkdir Sopas
+   27  mkdir -p Platillos/Mole_Poblano Platillos/Chile_en_nogada
+   28  ls Platillos/
+   29  mkdir -p Platillos/Arroz_rojo
+   30  mkdir -p Sopas/Azteca Sopas/De_fideo Sopas/De_pollo
+   31  mkdir -p Bebidas/Limonada Bebidas/Limonada_roja Bebidas/Naranjada
+   32  mkdir -p Bebidas/Limonada/Imagenes Bebidas/Limonada
+   33  pwd
+   34  mkdir -p Bebidas/Limonada/Ingredientes
+   35  cd
+   36  ls
+   37  cd
+   38  ls
+   39  cd Downloads/
+   40  ls
+   41  cd PortableGit
+   42  clear
+   43  ls
+   44  principal/
+   45  clear
+   46  cd principal/
+   47  mkdir menu2
+   48  cd menu2
+   49  mkdir -p  Bebidas Sopas Platillos
+   50  ls
+   51  mkdir -p  Bebidas/Limonada Bebidas/Limonada_roja Bebidas/Naranjada
+   52  mkdir -p  Sopas/Azteca Sopas/De_fideo Sopas/De_pollo
+   53  mkdir -p  Platillos/Arroz_rojo Platillos/Chile_en_nogada Platillos/Mole_poblano
+   54  mkdir -p Bebidas/Limonada/Imagenes Bebidas/Ingredientes
+   55  man mkdir
+   56  ls Bebidas/
+   57  pwb
+   58  pwd
+   59  rm Bebidas/Ingredientes/ 
+   60  ls Bebidas/
+   61  ls -r Bebidas/
+   62  rm -r Bebidas/
+   63  mkdir Bebidas
+   64  ls
+   65  mkdir Bebidas/Limonada Bebidas/Limonada_roja Bebidas/Naranjada
+   66  ls Bebidas/
+   67  mkdir Bebidas/Limonada/Ingredientes Bebidas/Limonada/Imagenes
+   68  ls Bebidas/Limonada
+   69  mkdir hola/hola1/hol2 hola/hola1/hol23
+   70  mkdir -p hola/hola1/hol2 hola/hola1/hol23
+   71  mkdir hola/hola
+   72  cp -r Sopas/Azteca Bebidas/
+   73  ls Bebidas/
+   74  cp -r Sopas/Azteca Sopas/De_fideo
+   75  ls Sopas/Azteca/
+   76  ls Sopas/Azteca
+   77  ls Sopas/De_fideo/
+   78  rm -r Platillos/
+   79  mkdir -p Platillos Platillos/Mole_poblano Patillos/Arroz_rojo Platillos/Chile_en_nogada
+   80  ls Platillos/
+   81  rm -r Platillos/
+   82  mkdir -p Platillos Platillos/Mole_poblano Patillos/Arroz_rojo Platillos/Chile_en_nogada
+   83  ls Platillos/
+   84  rm -r Platillos/
+   85  mkdir -p Platillos Platillos/Mole_poblano Platillos/Arroz_rojo Platillos/Chile_en_nogada
+   86  ls Platillos/
+   87  mkdir -p Platillos/Arroz_rojo/Imagenes Platillos/Mole_poblano/Imagenes Platillos/Chile_en_nogada/Imagenes Platillos/Arroz_rojo/Ingredientes Platillos/Mole_poblano/Ingredientes Platillos/Chile_en_nogada/Ingredientes
+   88  ls Platillos/Arroz_rojo/
+   89  cp -r Bebidas Bebidas_con_alchol
+   90  ls
+   91  mv Bebidas_con_alchol Bebidas_con_piquete
+   92  ls
+   93  nano script.sh
+   94  chmod 755 script.sh 
+   95  ./script.sh 
+   96  nano archivo
+   97  ls
+   98  vi hola
+   99  ls
+  100  nano archivo 
+  101  cat archivo 
+  102  tail archivo 
+  103  top
+  104  whoami
+  105  histori
+  106  history
+  107  history < COmandos_que_utilice.txt
+  108  history > COmandos_que_utilice.txt
